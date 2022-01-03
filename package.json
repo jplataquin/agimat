@@ -1,0 +1,21 @@
+{
+  "name": "spiritrouter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Patrick Lataquin",
+  "license": "ISC",
+  "dependencies": {
+    "adarna": "^1.0.7",
+    "bunyan": "^1.8.15",
+    "express": "^4.17.1",
+    "fast-glob": "^3.2.7",
+    "glob": "^7.2.0",
+    "moment": "^2.29.1",
+    "node-cron": "^3.0.0",
+    "puppeteer": "^13.0.0"
+  }
+}
